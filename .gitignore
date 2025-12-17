@@ -1,0 +1,13 @@
+# in all folders and subfolders ignore all hidden files (starting with a dot)
+**/.*
+
+
+# in all hidden folders and subfolders ignore all files
+**/.*/**
+
+# do not track data base
+**/infobase/**/*.*
+
+
+ # include .gitatributes
+!.gitattributes
