@@ -9,5 +9,5 @@
 **/infobase/**/*.*
 
 
- # include .gitatributes
+# include .gitatributes
 !.gitattributes
